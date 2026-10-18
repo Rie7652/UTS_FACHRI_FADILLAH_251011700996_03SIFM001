@@ -1,0 +1,8 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="240" height="240" viewBox="0 0 240 240">
+  <rect width="240" height="240" rx="28" fill="#07100a"/>
+  <rect x="12" y="12" width="216" height="216" rx="20" fill="none" stroke="#9cff57" stroke-width="3"/>
+  <path d="M45 65 H195 M45 175 H195" stroke="#9cff57" stroke-width="2" opacity=".45"/>
+  <text x="120" y="135" text-anchor="middle" font-family="Consolas, monospace" font-size="58" font-weight="bold" fill="#9cff57">HD</text>
+  <circle cx="32" cy="32" r="4" fill="#9cff57"/>
+  <circle cx="208" cy="208" r="4" fill="#9cff57"/>
+</svg>
